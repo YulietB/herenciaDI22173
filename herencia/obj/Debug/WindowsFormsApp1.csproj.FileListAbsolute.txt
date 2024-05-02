@@ -1,0 +1,10 @@
+C:\Users\LICENCIATURAS\Source\Repos\YulietB\herenciaDI22173\herencia\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\LICENCIATURAS\Source\Repos\YulietB\herenciaDI22173\herencia\bin\Debug\WindowsFormsApp1.exe
+C:\Users\LICENCIATURAS\Source\Repos\YulietB\herenciaDI22173\herencia\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\LICENCIATURAS\Source\Repos\YulietB\herenciaDI22173\herencia\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\LICENCIATURAS\Source\Repos\YulietB\herenciaDI22173\herencia\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\LICENCIATURAS\Source\Repos\YulietB\herenciaDI22173\herencia\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\LICENCIATURAS\Source\Repos\YulietB\herenciaDI22173\herencia\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\LICENCIATURAS\Source\Repos\YulietB\herenciaDI22173\herencia\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\LICENCIATURAS\Source\Repos\YulietB\herenciaDI22173\herencia\obj\Debug\WindowsFormsApp1.exe
+C:\Users\LICENCIATURAS\Source\Repos\YulietB\herenciaDI22173\herencia\obj\Debug\WindowsFormsApp1.pdb
