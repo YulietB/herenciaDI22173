@@ -21,7 +21,7 @@ namespace WindowsFormsApp1
         {
             Sumar suma = new Sumar(); //instancie o hice un nuevo objeto suma llamar el metodo de clase suma operar
 
-            textBox3.Text = suma.operar(int.Parse(textBox1.Text), int.Parse(textBox2.Text)).ToString();
+            textBox3.Text = suma.operar(float.Parse(textBox1.Text), float.Parse(textBox2.Text)).ToString();
 
 
         }
@@ -30,14 +30,14 @@ namespace WindowsFormsApp1
         {
             Restar restar = new Restar(); //instancie o hice un nuevo objeto suma llamar el metodo de clase suma operar
 
-            textBox3.Text = restar.operar(int.Parse(textBox1.Text), int.Parse(textBox2.Text)).ToString();
+            textBox3.Text = restar.operar(float.Parse(textBox1.Text), float.Parse(textBox2.Text)).ToString();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
             Multiplicar multiplicar = new Multiplicar(); //instancie o hice un nuevo objeto suma llamar el metodo de clase suma operar
 
-            textBox3.Text = multiplicar.operar(int.Parse(textBox1.Text), int.Parse(textBox2.Text)).ToString();
+            textBox3.Text = multiplicar.operar(float.Parse(textBox1.Text), float.Parse(textBox2.Text)).ToString();
         }
 
         private void button5_Click(object sender, EventArgs e)
@@ -56,7 +56,7 @@ namespace WindowsFormsApp1
         {
             Dividir dividir = new Dividir(); //instancie o hice un nuevo objeto suma llamar el metodo de clase suma operar
 
-            textBox3.Text = dividir.operar(int.Parse(textBox1.Text), int.Parse(textBox2.Text)).ToString();
+            textBox3.Text = dividir.operar(float.Parse(textBox1.Text), float.Parse(textBox2.Text)).ToString();
         }
     }
 }
